@@ -1,4 +1,3 @@
 # formationGit
-un super projet git
 
-Héloïse a modifié le readme
+le produit de mon subconscient
